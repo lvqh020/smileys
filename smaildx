@@ -1,1 +1,36 @@
-
+{
+    "urls": [  
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "🌈免费接口 🌈js+0826合集🌈"
+        },
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/js.json",
+            "name":  "🌈免费接口 🌈Panda Groove🌈"
+        },     
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json",
+            "name":  "🌈免费接口 🌈合集🌈"
+        }, 
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/99188.json",
+            "name":  "🌈免费接口 🌈香雅情🌈"
+        }, 
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/9918.json",
+            "name":  "🌈免费接口 🌈道长🌈"
+        }, 
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/0826.json",
+            "name":  "🌈免费接口 🌈饭太硬改进🌈"
+        }, 
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/0825.json",
+            "name":  "🌈免费接口 🌈小而精🌈"
+        }, 
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+            "name":  "🌈免费接口 🌈大而全🌈"
+        }
+]
+}
