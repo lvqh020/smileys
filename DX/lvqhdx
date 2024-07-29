@@ -2,15 +2,15 @@
     "urls": [
   {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm2.json",
-            "name": "🌈免费接口 月光宝盒JSM线路🌈"
+            "name": "🌈免费接口 月光宝盒JSM2线路🌈"
         },
   {
             "url": "https://jsd.proxy.aks.moe/gh/guot55/yg@main/pg/jsm2.json",
-            "name": "🌈免费接口 月光宝盒JSM线路🌈"
+            "name": "🌈免费接口 月光宝盒JSM2线路🌈"
         },
   {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm2.json",
-            "name": "🌈免费接口 月光宝盒JSM线路🌈"
+            "name": "🌈免费接口 月光宝盒JSM2线路🌈"
         },
   {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
@@ -55,6 +55,10 @@
   {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name":  "🌈免费接口 🌈道长🌈"
+        },
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+            "name":  "🌈免费接口 🌈JSM🌈"
         }
 ]
 }
