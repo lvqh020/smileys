@@ -17,9 +17,21 @@
             "name": "🌈免费接口 月光宝盒BH线路🌈"
         }, 
   {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "name": "🌈免费接口 月光宝盒MAX线路🌈"
+        }, 
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+            "name": "🌈免费接口 月光宝盒PRO线路🌈"
+        }, 
+  {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
             "name": "🌈免费接口 月光宝盒BOX原线路🌈"
         },   
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box.json",
+            "name": "🌈免费接口 月光宝盒BOX线路🌈"
+        }, 
   {
             "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
             "name": "🌈免费接口 🌈拾光仓库OMG🌈"
