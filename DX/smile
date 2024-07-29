@@ -44,7 +44,14 @@
             "url": "https://gitee.com/year-of-the-rabbit-shadow/blue-film-and-television/raw/master/ugly.json",
             "name":  "🌈免费接口 🌈蓝色影视🌈"
         }, 
-
+  {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/PG/jsm.json",
+            "name":  "🌈免费接口 🌈PG影视🌈"
+        }, 
+  {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/drpy_dzlive/index.json",
+            "name":  "🌈免费接口 🌈drpy_dzlive🌈"
+        }, 
   {
             "url": "http://ygbh.live/box.php",
             "name":  "🌈免费接口 🌈月光宝盒BOX🌈"
