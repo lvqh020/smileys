@@ -63,6 +63,10 @@
   {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
             "name":  "🌈免费接口 🌈JSM🌈"
+        },
+  {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Fy.json",
+            "name":  "🌈免费接口 🌈doki-Fy🌈"
         }
 ]
 }
