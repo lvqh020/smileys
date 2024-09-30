@@ -1,12 +1,11 @@
 {
 "storeHouse": [
 {"sourceName":"🌙自用优选仓","sourceUrl":"https://raw.gitmirror.com/lvqh020/smileys/main/DX/smile"},
-{"sourceName":"🌙月光优选仓","sourceUrl":"https://raw.gitmirror.com/guot55/yg/main/dc2.json"},
-{"sourceName":"🌙拾光仓库","sourceUrl":"https://gitee.com/xmbjmck/ck/raw/master/ck.json"},
-{"sourceName":"🌙月光YSDC仓库","sourceUrl":"https://raw.gitmirror.com/guot55/yg/main/ysdc.json"},
-{"sourceName":"🌙月光MAXC仓库","sourceUrl":"https://raw.gitmirror.com/guot55/yg/main/maxc.json"},
-{"sourceName":"🌙月光BHVIP仓库","sourceUrl":"https://raw.gitmirror.com/guot55/yg/main/bhvip.json"},
-{"sourceName":"🌙拾光仓库-DC","sourceUrl":"https://gitlab.com/xmbjm/zrj/-/raw/main/dc.json"},
-{"sourceName":"🌙宝盒多仓","sourceUrl":"https://gitcode.net/MZ011/jk/-/raw/master/bhDC.json"}
+{"sourceName":"🌙公子在线","sourceUrl":"https://gzy.lzo.us.kg/"},
+{"sourceName":"🌙18+video","sourceUrl":"https://raw.gitmirror.com/wwb521/live/main/video.json"},
+{"sourceName":"🌙Index18","sourceUrl":"https://raw.gitmirror.com/bizhangjie/CatVodSpider/main/json/index18.json"},
+{"sourceName":"🌙CS18+","sourceUrl":"clan://localhost/ysc/cs/cs.json"},
+{"sourceName":"🌙ZY18+","sourceUrl":"clan://localhost/ysc/zy.json"},
+{"sourceName":"🌙X18+","sourceUrl":"sourceUrl":"clan://localhost/ysc/x.json"}
 ]
 }
