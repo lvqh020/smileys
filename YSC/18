@@ -1,1 +1,29 @@
 
+{
+    "urls": [
+  {
+            "url": "https://gzy.lzo.us.kg",
+            "name": "🌈公子在线🌈"
+        },
+  {
+            "url": "https://raw.gitmirror.com/wwb521/live/main/video.json",
+            "name": "🌈18+video🌈"
+        },
+{
+            "url": "https://raw.gitmirror.com/bizhangjie/CatVodSpider/main/json/index18.json",
+            "name": "🌈Index18🌈"
+        },
+  {
+            "url": "clan://localhost/ysc/cs/cs.json",
+            "name": "🌈CS18+🌈"
+        },
+  {
+            "url": "clan://localhost/ysc/zy.json",
+            "name": "🌈ZY18+🌈"
+        }, 
+  {
+            "url": "clan://localhost/ysc/x.json",
+            "name": "🌈X18+🌈"
+        }
+]
+}
