@@ -1,0 +1,15 @@
+ {
+"storeHouse": [
+{"sourceName":"🌙常用优选仓","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/lvqh020/smileys/main/DX/smiles"},
+{"sourceName":"🌙自用收集仓","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/lvqh020/smileys/main/DX/api"},
+{"sourceName":"🌙自用收集","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/lvqh020/smileys/main/DX/smile"},
+{"sourceName":"🌙月光优选仓","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
+{"sourceName":"🌙拾光仓库","sourceUrl":"https://xmbjm.github.io/ck.json"},
+{"sourceName":"🌙拾光仓库2","sourceUrl":"https://gitlab.com/xmbjm/ck/-/raw/main/ck.json"},
+{"sourceName":"🌙月光YSDC仓库","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json"},
+{"sourceName":"🌙月光MAXC仓库","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/maxc.json"},
+{"sourceName":"🌙月光BHVIP仓库","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/guot55/yg/main/bhvip.json"},
+{"sourceName":"🌙讴歌仓库","sourceUrl":"https://xn--qppq-rp5imh.v.nxog.top/api.php?id=2"},
+{"sourceName":"🌙七星多仓","sourceUrl":"https://qixing.myhkw.com/DC.txt"}
+]
+}
