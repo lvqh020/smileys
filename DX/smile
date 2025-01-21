@@ -58,3 +58,48 @@
         }
 ]
 }
+
+{
+    "urls": [
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm2.json",
+            "name": "🌈免费接口月光宝盒JSM2线路🌈"
+        },
+  {
+            "url": "https://4708.kstore.space/hollo/omg.json",
+            "name": "🌈免费接口🌈拾光仓库🌈"
+        },
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xmbjm/omg/main/api.json",
+            "name": "🌈免费接口🌈拾光仓库1🌈"
+        },
+  {
+            "url": "https://gitea.moe/omg/omg/raw/branch/main/api.json",
+            "name": "🌈免费接口🌈拾光仓库2🌈"
+        },
+  {
+            "url": "https://gitlab.com/xmbjm/omg/-/raw/main/api.json",
+            "name": "🌈免费接口🌈拾光仓库3🌈"
+        },
+  {
+            "url": "https://4708.kstore.space/DJ/dj.json",
+            "name": "🌈免费接口🌈拾光短剧🌈"
+        },
+  {
+            "url": "https://欧歌.e.nxog.top/api.php?id=3",
+            "name": "🌈免费接口🌈欧歌单线🌈"
+        },
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
+            "name": "🌈免费接口月光宝盒BOX原线路🌈"
+        },   
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🌈免费接口🌈香雅情🌈"
+        },
+  {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🌈免费接口🌈道长🌈"
+        }
+]
+}
