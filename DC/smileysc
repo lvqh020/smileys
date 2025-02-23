@@ -1,8 +1,8 @@
 {
 "storeHouse": [
-{"sourceName":"🌙常用优选仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/lvqh020/smileys/main/DX/smiles"},
-{"sourceName":"🌙自用收集仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/lvqh020/smileys/main/DX/api"},
-{"sourceName":"🌙月光优选仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
+{"sourceName":"🌙常用优选仓","sourceUrl":"https://raw.kkgithub.com/lvqh020/smileys/main/DX/smiles"},
+{"sourceName":"🌙自用收集仓","sourceUrl":"https://raw.kkgithub.com/lvqh020/smileys/main/DX/api"},
+{"sourceName":"🌙月光优选仓","sourceUrl":"https://raw.kkgithub.com/guot55/yg/main/dc2.json"},
 {"sourceName":"🌙拾光仓库","sourceUrl":"https://4708.kstore.space/hollo/ck.json"},
 {"sourceName":"🌙拾光仓库1","sourceUrl":"https://xmbjm.github.io/ck.json"},
 {"sourceName":"🌙拾光仓库2","sourceUrl":"https://4708.kstore.space/dc.txt"},
