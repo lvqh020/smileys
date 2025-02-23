@@ -43,6 +43,14 @@
   {
             "url": "https://raw.kkgithub.com/guot55/yg/main/box原.json",
             "name": "🌈免费接口月光宝盒BOX原线路🌈"
+        },
+  {
+            "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/api.json",
+            "name": "🌈免费接口月光宝盒bhmax线路🌈"
+        ,
+  {
+            "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bh/raw/api.json",
+            "name": "🌈免费接口月光宝盒bh线路🌈"
         }
 ]
 }
